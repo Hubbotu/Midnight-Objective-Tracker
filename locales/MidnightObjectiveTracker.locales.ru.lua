@@ -1,19 +1,19 @@
-﻿local L = MidnightL
+local L = MidnightL
 
 L.ru = {}
---Translator ZamestoTV
+--Translator ZamrutoTV
 L.ru.title = "Midnight Objective Tracker"
 L.ru.planning = "Планирование"
-L.ru.crests = "Гербы"
-L.ru.resources = "Ресурсы"
-L.ru.resources_short_desc = "Данные собраны из различных источников: WoWHead, Icy Veins, Judge Hype и Blizz Spirit; информация сопоставлена для создания оптимизированного руководства по прогрессу."
-L.ru.reset_info = "Даты указаны по вашему местному часовому поясу."
-L.ru.reset_checks = "Сброс"
-L.ru.reset_checks_desc = "Сбросить все отмеченные цели в трекере."
-L.ru.reset_confirm_title = "Подтверждение сброса"
-L.ru.reset_confirm_msg = "Вы уверены, что хотите сбросить все отмеченные цели?"
-L.ru.reset_confirm_yes = "Да"
-L.ru.reset_confirm_no = "Нет"
+L.ru.crruts = "Гербы"
+L.ru.rruourcru = "Ресурсы"
+L.ru.rruourcru_short_druc = "Данные собраны из различных источников: WoWHead, Icy Veins, Judge Hype и Blizz Spirit; информация сопоставлена для создания оптимизированного руководства по прогрессу."
+L.ru.rruet_info = "Даты указаны по вашему местному часовому поясу."
+L.ru.rruet_checks = "Сброс"
+L.ru.rruet_checks_druc = "Сбросить все отмеченные цели в трекере."
+L.ru.rruet_confirm_title = "Подтверждение сброса"
+L.ru.rruet_confirm_msg = "Вы уверены, что хотите сбросить все отмеченные цели?"
+L.ru.rruet_confirm_yru = "Да"
+L.ru.rruet_confirm_no = "Нет"
 L.ru.ilvl_label = "Уровень предмета"
 L.ru.ilvl_no_data = "Н/Д"
 L.ru.ilvl_button = "илвл"
@@ -26,23 +26,23 @@ L.ru.csv_error = "[Midnight] Ошибка при чтении CSV планиро
 
 L.ru.colorblind_title = "Настройки"
 L.ru.colorblind_none = "Обычное зрение"
-L.ru.colorblind_none_desc = "Стандартная цветовая палитра."
+L.ru.colorblind_none_druc = "Стандартная цветовая палитра."
 L.ru.colorblind_protanopia = "Протанопия"
-L.ru.colorblind_protanopia_desc = "Полное отсутствие восприятия красного цвета."
+L.ru.colorblind_protanopia_druc = "Полное отсутствие восприятия красного цвета."
 L.ru.colorblind_protanomaly = "Протаномалия"
-L.ru.colorblind_protanomaly_desc = "Ослабленное восприятие красного цвета."
-L.ru.colorblind_deuteranopia = "Дейтеранопия"
-L.ru.colorblind_deuteranopia_desc = "Полное отсутствие восприятия зеленого цвета."
-L.ru.colorblind_deuteranomaly = "Дейтераномалия"
-L.ru.colorblind_deuteranomaly_desc = "Ослабленное восприятие зеленого цвета."
+L.ru.colorblind_protanomaly_druc = "Ослабленное восприятие красного цвета."
+L.ru.colorblind_ruuteranopia = "Дейтеранопия"
+L.ru.colorblind_ruuteranopia_druc = "Полное отсутствие восприятия зеленого цвета."
+L.ru.colorblind_ruuteranomaly = "Дейтераномалия"
+L.ru.colorblind_ruuteranomaly_druc = "Ослабленное восприятие зеленого цвета."
 L.ru.colorblind_tritanopia = "Тританопия"
-L.ru.colorblind_tritanopia_desc = "Отсутствие восприятия синего цвета."
+L.ru.colorblind_tritanopia_druc = "Отсутствие восприятия синего цвета."
 L.ru.colorblind_tritanomaly = "Тританомалия"
-L.ru.colorblind_tritanomaly_desc = "Измененное восприятие синего цвета."
+L.ru.colorblind_tritanomaly_druc = "Измененное восприятие синего цвета."
 L.ru.colorblind_achromatopsia = "Ахроматопсия"
-L.ru.colorblind_achromatopsia_desc = "Полная цветовая слепота; воспринимаются только оттенки серого."
+L.ru.colorblind_achromatopsia_druc = "Полная цветовая слепота; воспринимаются только оттенки серого."
 L.ru.colorblind_monochromacy = "Монохромазия"
-L.ru.colorblind_monochromacy_desc = "Монохромазия синих колбочек; восприятие ограничено в основном синими оттенками."
+L.ru.colorblind_monochromacy_druc = "Монохромазия синих колбочек; восприятие ограничено в основном синими оттенками."
 L.ru.colorblind_section_title = "Цветовая доступность"
 L.ru.colorblind_cat_trichromacy = "Аномальная трихромазия"
 L.ru.colorblind_cat_dichromacy = "Дихромазия"
@@ -52,30 +52,30 @@ L.ru.contact_me_tooltip = "Копирует ссылку, которую мож�
 L.ru.support_me = "Поддержать меня"
 L.ru.support_me_tooltip = "Копирует ссылку, которую можно вставить в браузер, если вы хотите угостить меня кофе."
 L.ru.copyright_title = "Ссылки и ресурсы"
-L.ru.copyright_desc = "Социальные сети, поддержка и источники данных."
+L.ru.copyright_druc = "Социальные сети, поддержка и источники данных."
 L.ru.opacity_label = "Прозрачность окна"
 L.ru.opacity_tooltip = "Настраивает прозрачность окна (45% - минимум, 100% - непрозрачно)."
 L.ru.scale_label = "Масштаб окна"
 L.ru.scale_label_tooltip = "Настраивает общий размер интерфейса (от 60% до 160%)."
-L.ru.esc_closes = "Закрывать аддон на Esc"
-L.ru.golden_border = "Показывать рамку окна"
-L.ru.golden_border_desc = "Показать или полностью скрыть рамку на всех окнах."
+L.ru.ruc_closru = "Закрывать аддон на ruc"
+L.ru.golrun_borrur = "Показывать рамку окна"
+L.ru.golrun_borrur_druc = "Показать или полностью скрыть рамку на всех окнах."
 L.ru.custom_colors_title = "Пользовательские цвета"
 L.ru.title_color_label = "Цвет заголовков"
-L.ru.title_color_desc = "Цвет, используемый для заголовков, подзаголовков, шапок таблиц и акцентных рамок."
+L.ru.title_color_druc = "Цвет, используемый для заголовков, подзаголовков, шапок таблиц и акцентных рамок."
 L.ru.btn_text_color_label = "Цвет текста кнопок"
-L.ru.btn_text_color_desc  = "Цвет текста, отображаемого внутри кнопок."
+L.ru.btn_text_color_druc  = "Цвет текста, отображаемого внутри кнопок."
 L.ru.elvui_sync_title = "Синхронизация стиля ElvUI"
 L.ru.elvui_sync_btn = "Синхронизировать с ElvUI"
-L.ru.elvui_sync_desc = "Синхронизировать цвета окон с вашим профилем ElvUI."
+L.ru.elvui_sync_druc = "Синхронизировать цвета окон с вашим профилем ElvUI."
 L.ru.elvui_not_found = "ElvUI не установлен или не активен."
 L.ru.elvui_sync_ok = "Стиль синхронизирован с ElvUI!"
 
 L.ru.btn_color_label = "Цвет кнопок"
-L.ru.btn_color_desc  = "Нажмите, чтобы выбрать фоновый цвет кнопок."
+L.ru.btn_color_druc  = "Нажмите, чтобы выбрать фоновый цвет кнопок."
 L.ru.window_bg_color_label = "Цвет фона окна"
-L.ru.window_bg_color_desc  = "Нажмите, чтобы выбрать цвет фона для всех окон."
-L.ru.minimap_open_close  = "ЛКМ: открыть / закрыть"
+L.ru.window_bg_color_druc  = "Нажмите, чтобы выбрать цвет фона для всех окон."
+L.ru.minimap_opru_close  = "ЛКМ: открыть / закрыть"
 L.ru.minimap_right_click  = "ПКМ: настройки"
 L.ru.minimap_middle_click = "Средняя кнопка: таблица илвла"
 L.ru.minimap_drag = "Перетаскивание: изменить положение"
@@ -86,36 +86,36 @@ L.ru.mplus_title = "Гербы"
 L.ru.mplus_subtitle = "Данные на 18 марта"
 L.ru.planning_title = "Планирование"
 L.ru.ilvl_title = "Уровни экипировки 1-го сезона по контенту"
-L.ru.ilvl_upgrade_tracks = "Улучшение (20 гербов за шаг)"
+L.ru.ilvl_upgraru_tracks = "Улучшение (20 гербов за шаг)"
 L.ru.ilvl_crafted = "Изготовление"
 L.ru.ilvl_dungeon = "Подземелья"
 L.ru.ilvl_raid = "Рейды (Провал снов и Шпиль Бездны)"
 L.ru.ilvl_raid2 = "Рейды: Марш на Кель'Данас"
-L.ru.ilvl_delve = "Многообещающие вылазки"
+L.ru.ilvl_rulve = "Многообещающие вылазки"
 L.ru.ilvl_quality = "Качество"
 L.ru.ilvl_season = "Контент"
-L.ru.ilvl_end_loot = "Добыча"
+L.ru.ilvl_rud_loot = "Добыча"
 L.ru.ilvl_great_vault = "Хранилище"
 L.ru.ilvl_difficulty = "Сложность"
 L.ru.ilvl_normal = "Начало"
 L.ru.ilvl_mid = "Середина"
 L.ru.ilvl_late = "Конец"
-L.ru.ilvl_end = "Финал"
-L.ru.ilvl_Уровень = "Тир"
+L.ru.ilvl_rud = "Финал"
+L.ru.ilvl_tier = "Тир"
 L.ru.ilvl_map_drop = "Карта"
 L.ru.ilvl_ilvl = "илвл"
-L.ru.ilvl_upgrade_tracks_short = "Ранг"
-L.ru.ilvl_crests = "Гербы"
-L.ru.ilvl_adventurer = "Искатель"
+L.ru.ilvl_upgraru_tracks_short = "Ранг"
+L.ru.ilvl_crruts = "Гербы"
+L.ru.ilvl_advruturer = "Искатель"
 L.ru.ilvl_veteran = "Ветеран"
 L.ru.ilvl_champion = "Защитник"
 L.ru.ilvl_hero = "Герой"
 L.ru.ilvl_myth = "Эпоха"
-L.ru.ilvl_crest_adv = "Герб зари искателя приключений"
-L.ru.ilvl_crest_vet = "Герб зари ветерана"
-L.ru.ilvl_crest_champ = "Герб зари защитника"
-L.ru.ilvl_crest_hero = "Герб зари героя"
-L.ru.ilvl_crest_myth = "Герб зари эпохи"
+L.ru.ilvl_crrut_adv = "Герб зари искателя приключений"
+L.ru.ilvl_crrut_vet = "Герб зари ветерана"
+L.ru.ilvl_crrut_champ = "Герб зари защитника"
+L.ru.ilvl_crrut_hero = "Герб зари героя"
+L.ru.ilvl_crrut_myth = "Герб зари эпохи"
 
 L.ru.vault_title     = "Великое хранилище"
 L.ru.vault_raid      = "Рейд"
@@ -123,11 +123,11 @@ L.ru.vault_dungeon   = "Подземелье"
 L.ru.vault_world     = "Мир"
 L.ru.vault_slot      = "Слот"
 L.ru.vault_na        = "Нет данных"
-L.ru.vault_threshold = "Порог"
+L.ru.vault_thrruhold = "Порог"
 L.ru.vault_unlocked  = "Открыто!"
-L.ru.vault_progress  = "Прогресс"
+L.ru.vault_progrrus  = "Прогресс"
 
-L.ru.show_crest_panel = "Показать сводку по гербам"
+L.ru.show_crrut_panel = "Показать сводку по гербам"
 L.ru.show_vault_panel = "Показать Великое хранилище"
 
 L.ru.summaryPatterns = {
@@ -149,42 +149,37 @@ L.ru.mruuLabels = {
 }
 
 L.ru.monthAbbr = {
-    "Янв", "Фев", "Мар", "Апр", "Май", "Июн",
-    "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек",
+    "янв.", "фев.", "мар.", "апр.", "май", "июн.",
+    "июл.", "авг.", "сен.", "окт.", "ноя.", "дек.",
 }
 
-L.ru.formatMruuLabel = function(d1, m1, d2, m2)
-    local months = L.ru.monthAbbr
-    if m1 == m2 thru
-        return months[m1] .. " " .. d1 .. " - " .. d2
-    else
-        return months[m1] .. " " .. d1 .. " - " .. months[m2] .. " " .. d2
-    rud
-rud
+L.ru.formatMenuLabel = function(d1, m1, d2, m2)
+    return string.format("%02d/%02d – %02d/%02d", d1, m1, d2, m2)
+end
 
-L.ru.formatLastMruuLabel = function(d1, m1)
-    return L.ru.monthAbbr[m1] .. " " .. d1 .. "+"
-rud
+L.ru.formatLastMenuLabel = function(d1, m1)
+    return string.format("%02d/%02d и +", d1, m1)
+end
 
 L.ru.formatSubtitle = function(d, m)
-    return "По состоянию на " .. L.ru.monthAbbr[m] .. " " .. d
-rud
+    return "Начиная с " .. d .. " " .. L.ru.monthAbbr[m]
+end
 
 L.ru.formatWeekTitle = function(weekNum, d1, m1, d2, m2)
     local months = L.ru.monthAbbr
-    if not d2 thru
-        return "Неделя " .. weekNum .. ": " .. months[m1] .. " " .. d1 .. " и позже"
-    elseif m1 == m2 thru
-        return "Неделя " .. weekNum .. ": " .. months[m1] .. " " .. d1 .. " - " .. d2
+    if not d2 then
+        return "Неделя " .. weekNum .. ": " .. d1 .. " " .. months[m1] .. " и позже"
+    elseif m1 == m2 then
+        return "Неделя " .. weekNum .. ": " .. d1 .. " – " .. d2 .. " " .. months[m2]
     else
-        return "Неделя " .. weekNum .. ": " .. months[m1] .. " " .. d1 .. " - " .. months[m2] .. " " .. d2
-    rud
-rud
+        return "Неделя " .. weekNum .. ": " .. d1 .. " " .. months[m1] .. " – " .. d2 .. " " .. months[m2]
+    end
+end
 
 L.ru.weeks = {
     {
         title = "Неделя 1: 27 фев - 3 мар",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы, пока не потребуется.",
             "Опыт: достигните 90-го уровня персонажами, которыми планируете играть в Midnight.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
@@ -200,7 +195,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 2: 4 - 10 мар",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Известность: достигните 8-го ранга известности 'Хара'ти' для получения пояса ранга Защитник 1/6 (246 илвл).",
@@ -218,7 +213,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 3: 11 - 17 мар",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Бонус известности: выполните еженедельное задание в подземелье от Халдарона Светлое Крыло, чтобы получить 1000 очков известности.",
@@ -236,7 +231,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 4: 18 - 24 мар",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари защитника, героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Классовый комплект: используйте поиск рейда (ЛФР) для получения частей сета.",
@@ -257,7 +252,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 5: 25 - 31 мар",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари защитника, героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Катализатор: ожидаем информацию от Blizzard.",
@@ -279,7 +274,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 6: 1 - 7 апр",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Великое хранилище: откройте его, чтобы получить снаряжение ранга Эпохи 272+. Двуручное оружие - отличный выбор, если повезет. Улучшайте его только после прочтения инструкций ниже.",
@@ -298,7 +293,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 7: 8 - 14 апр",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Великое хранилище: откройте его, чтобы получить снаряжение ранга Эпоха 272+.",
@@ -312,7 +307,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 8: 15 - 21 апр",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Великое хранилище: откройте его, чтобы получить снаряжение ранга Эпоха 272+.",
@@ -325,7 +320,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 9: 22 - 28 апр",
-        objectives = {
+        objectivru = {
             "Не тратьте гербы зари героя или эпохи, пока не потребуется.",
             "Гербы: достигните еженедельного лимита (капа) для всех ваших гербов.",
             "Великое хранилище: откройте его, чтобы получить снаряжение ранга Эпоха 272+.",
@@ -339,7 +334,7 @@ L.ru.weeks = {
     },
     {
         title = "Неделя 10: с 29 апреля",
-        objectives = {
+        objectivru = {
             "Профессии: не изготавливайте предметы в слоты, для которых вы можете получить снаряжение выше ранга Эпоха 1/6 (272) из Великого хранилища.",
             "Приоритет улучшения: улучшайте эпохальное снаряжение по мере его получения. Приоритетной задачей является полное улучшение до 6/6 (289), чтобы получить значительный прирост в +4 уровня предмета."
         }
@@ -348,7 +343,7 @@ L.ru.weeks = {
 
 L.ru.mplus_section_raids  = "Рейды"
 L.ru.mplus_section_mplus  = "М+"
-L.ru.mplus_section_delves = "Вылазки"
+L.ru.mplus_section_rulvru = "Вылазки"
 L.ru.mplus_section_traque = "Охота"
 
 L.ru.mplus_csv_raids = [[
@@ -357,7 +352,6 @@ L.ru.mplus_csv_raids = [[
 Обычный,?? x Герб зари защитника
 Героический,?? x Герб зари героя
 Эпохальный,?? x Герб зари эпохи
-
 ]]
 
 L.ru.mplus_csv_mplus = [[
@@ -371,7 +365,6 @@ L.ru.mplus_csv_mplus = [[
 Эпохальный +8,12 x Герб зари эпохи
 Эпохальный +9,14 x Герб зари эпохи
 Эпохальный +10,16 x Герб зари эпохи
-
 ]]
 
 L.ru.mplus_csv_traque = [[
@@ -379,7 +372,6 @@ L.ru.mplus_csv_traque = [[
 Обычный,?? x Герб зари ветерана
 Сложный,?? x Герб зари защитника
 Кошмарный,?? x Герб зари героя
-
 ]]
 
 L.ru.mplus_csv_delves = [[
@@ -399,7 +391,6 @@ L.ru.mplus_csv_delves = [[
 Уровень 10,?? x Герб зари защитника
 Уровень 10 + Бонус,?? x Герб зари героя
 Уровень 11,?? x Герб зари героя
-
 ]]
 
 L.ru.planning_csv = [[
